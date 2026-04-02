@@ -1,17 +1,17 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
-	"port": "28153",
-	"username": "Mr Origami",
+	"host": "LICSOS_Nexus.aternos.me",
+	"port": "60329",
+	"username": "ROBERTO_ALT",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
 	],
 
 
-	"DO_NOT_EDIT_CONFIGS_DOWN_BELOW": "IF YOU DON'T KNOW WHAT YOU'RE DOING",
+	"DO_NOT_EDIT_CONFIGS_DOWN_BELOW": ",
 	"actionDelays": [500, 1000, 1500, 2000, 2500, 3000],
 	"retryTimes": {
 		"ms": "30000",
-		"text": "30s"
+		"text": "31000s"
 	}
 }
